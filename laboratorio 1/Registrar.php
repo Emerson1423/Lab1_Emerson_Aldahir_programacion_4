@@ -97,7 +97,7 @@
 
         if($_SERVER['REQUEST_METHOD']=='POST'){
             $nombre = $_POST['nombreempleado'];
-            $apellido = $_POST['nombreempleado'];
+            $apellido = $_POST['apellidoempleado'];
             $fecha = $_POST['fechaempleado'];
             $area = $_POST['areaempleado'];
 
